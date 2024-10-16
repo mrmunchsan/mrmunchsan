@@ -1,9 +1,4 @@
-## Hi there 👋
+## What's up gamer
 
-<!--
-**mrmunchsan/mrmunchsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- I'll probably use this repo for my big projects and such.
--->
+## Purpose
+-I'll probably figure out a use for this repo, like managing my work. So enjoy lol..
