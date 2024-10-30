@@ -1,6 +1,8 @@
 ## Juan Santiago
 
-# What's up guys, I'll use this repo to display my projects and work.
+# I'll use this repo to display my projects and work.
+
+### Future Course(s)
 
 ## Current Course(s)
 
@@ -14,4 +16,4 @@
 - CIST 1601 *Information Security Fundamentals*
 
 ## Purpose:
--I'll probably figure out a use for this repo, like managing my work. So enjoy lol..
+
