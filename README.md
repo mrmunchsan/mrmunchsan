@@ -2,7 +2,7 @@
 
 # I'll use this repo to display my projects and work.
 
-### Future Course(s)
+## Future Course(s)
 
 ## Current Course(s)
 
